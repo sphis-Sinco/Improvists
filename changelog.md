@@ -29,6 +29,7 @@
 - Armorer Trade for 3 **Iron Coins** (gives Iron Leggings)
 - Fisherman Trade for 7 **Iron Coins** (gives 2 Iron horse armors)
 ### Recipes
+#### Working
 - Gold Coin Recipe
 - Gold Coin Reverse Recipe
 - Gold Coin Nugget Recipe
@@ -37,32 +38,33 @@
 - Iron Coin Reverse Recipe
 - Iron Coin Nugget Recipe
 - Iron Coin Nugget Reverse Recipe
-- Cobbled Clump Recipe
 - Cobbled Clump Reverse Recipe
-- Stone Clump Recipe
 - Stone Clump Reverse Recipe
-- Acacia Clump Recipe
 - Acacia Clump Reverse Recipe
-- Bamboo Clump Recipe
 - Bamboo Clump Reverse Recipe
-- Birch Clump Recipe
 - Birch Clump Reverse Recipe
-- Cherry Clump Recipe
 - Cherry Clump Reverse Recipe
-- Crimson Clump Recipe
 - Crimson Clump Reverse Recipe
-- Dark Oak Clump Recipe
 - Dark Oak Clump Reverse Recipe
-- Jungle Clump Recipe
 - Jungle Clump Reverse Recipe
-- Mangrove Clump Recipe
 - Mangrove Clump Reverse Recipe
-- Oak Clump Recipe
 - Oak Clump Reverse Recipe
-- Spruce Clump Recipe
 - Spruce Clump Reverse Recipe
-- Warped Clump Recipe
 - Warped Clump Reverse Recipe
+#### Not working
+- Cobbled Clump Recipe
+- Stone Clump Recipe
+- Acacia Clump Recipe
+- Bamboo Clump Recipe
+- Birch Clump Recipe
+- Cherry Clump Recipe
+- Crimson Clump Recipe
+- Dark Oak Clump Recipe
+- Jungle Clump Recipe
+- Mangrove Clump Recipe
+- Oak Clump Recipe
+- Spruce Clump Recipe
+- Warped Clump Recipe
 ### Procedures
 - Coin Recipe Unlocking
 - Recipe Unlock Call for Crafting an Item
