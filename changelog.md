@@ -25,3 +25,5 @@
 - Coin Recipe Unlocking
 - Recipe Unlock Call for Crafting an Item
 - Recipe Unlock Call for Picking up an Item
+### Languages
+- Added Spain Spanish (es_es) language
