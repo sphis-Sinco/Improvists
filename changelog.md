@@ -8,6 +8,8 @@
 - Cobbled Clump
 - Stone Clump
 - Acacia Clump
+- Bamboo Clump
+- Birch Clump
 ### Villager Trades
 - Weaponsmith Trade for 3 **Gold Coins** (gives a Golden sword)
 - Armorer Trade for 2 **Gold Coins** (gives Golden Boots)
@@ -26,6 +28,14 @@
 - Iron Coin Nugget Reverse Recipe
 - Cobbled Clump Recipe
 - Cobbled Clump Reverse Recipe
+- Stone Clump Recipe
+- Stone Clump Reverse Recipe
+- Acacia Clump Recipe
+- Acacia Clump Reverse Recipe
+- Bamboo Clump Recipe
+- Bamboo Clump Reverse Recipe
+- Birch Clump Recipe
+- Birch Clump Reverse Recipe
 ### Procedures
 - Coin Recipe Unlocking
 - Recipe Unlock Call for Crafting an Item
