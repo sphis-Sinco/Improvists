@@ -1,11 +1,19 @@
 SEP=,
 Translation key (DON'T EDIT),TRANSLATION IN en_us - EDIT THIS COLUMN,English text (DON'T EDIT - reference only)
-item.improvists.iron_coin_nugget,Iron Coin Nugget,Iron Coin Nugget
-item.improvists.gold_coin,Gold Coin,Gold Coin
-item.improvists.bamboo_clump,Bamboo Clump,Bamboo Clump
-item.improvists.iron_coin,Iron Coin,Iron Coin
+item.improvists.cherry_clump,Cherry Clump,Cherry Clump
+item.improvists.crimson_clump,Crimson Clump,Crimson Clump
+item.improvists.oak_clump,Oak Clump,Oak Clump
 item.improvists.acacia_clump,Acacia Clump,Acacia Clump
+item.improvists.gold_coin_nugget,Gold Coin Nugget,Gold Coin Nugget
+item.improvists.spruce_clump,Spruce Clump,Spruce Clump
+item.improvists.iron_coin_nugget,Iron Coin Nugget,Iron Coin Nugget
+item.improvists.warped_clump,Warped Clump,Warped Clump
+item.improvists.jungle_clump,Jungle Clump,Jungle Clump
+item.improvists.bamboo_clump,Bamboo Clump,Bamboo Clump
+item.improvists.gold_coin,Gold Coin,Gold Coin
+item.improvists.iron_coin,Iron Coin,Iron Coin
 item.improvists.cobbled_clump,Cobbled Clump,Cobbled Clump
 item.improvists.stone_clump,Stone Clump,Stone Clump
 item.improvists.birch_clump,Birch Clump,Birch Clump
-item.improvists.gold_coin_nugget,Gold Coin Nugget,Gold Coin Nugget
+item.improvists.dark_oak_clump,Dark Oak Clump,Dark Oak Clump
+item.improvists.mangrove_clump,Mangrove Clump,Mangrove Clump
