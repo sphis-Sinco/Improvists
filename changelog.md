@@ -10,6 +10,14 @@
 - Acacia Clump
 - Bamboo Clump
 - Birch Clump
+- Cherry Clump
+- Crimson Clump
+- Dark Oak Clump
+- Jungle Clump
+- Mangrove Clump
+- Oak Clump
+- Spruce Clump
+- Warped Clump
 ### Villager Trades
 - Weaponsmith Trade for 3 **Gold Coins** (gives a Golden sword)
 - Armorer Trade for 2 **Gold Coins** (gives Golden Boots)
@@ -36,6 +44,22 @@
 - Bamboo Clump Reverse Recipe
 - Birch Clump Recipe
 - Birch Clump Reverse Recipe
+- Cherry Clump Recipe
+- Cherry Clump Reverse Recipe
+- Crimson Clump Recipe
+- Crimson Clump Reverse Recipe
+- Dark Oak Clump Recipe
+- Dark Oak Clump Reverse Recipe
+- Jungle Clump Recipe
+- Jungle Clump Reverse Recipe
+- Mangrove Clump Recipe
+- Mangrove Clump Reverse Recipe
+- Oak Clump Recipe
+- Oak Clump Reverse Recipe
+- Spruce Clump Recipe
+- Spruce Clump Reverse Recipe
+- Warped Clump Recipe
+- Warped Clump Reverse Recipe
 ### Procedures
 - Coin Recipe Unlocking
 - Recipe Unlock Call for Crafting an Item
