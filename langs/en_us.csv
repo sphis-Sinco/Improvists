@@ -1,6 +1,11 @@
 SEP=,
-Translation key (DON'T EDIT),TRANSLATION IN en_ug - EDIT THIS COLUMN,English text (DON'T EDIT - reference only)
+Translation key (DON'T EDIT),TRANSLATION IN en_us - EDIT THIS COLUMN,English text (DON'T EDIT - reference only)
 item.improvists.iron_coin_nugget,Iron Coin Nugget,Iron Coin Nugget
 item.improvists.gold_coin,Gold Coin,Gold Coin
+item.improvists.bamboo_clump,Bamboo Clump,Bamboo Clump
 item.improvists.iron_coin,Iron Coin,Iron Coin
+item.improvists.acacia_clump,Acacia Clump,Acacia Clump
+item.improvists.cobbled_clump,Cobbled Clump,Cobbled Clump
+item.improvists.stone_clump,Stone Clump,Stone Clump
+item.improvists.birch_clump,Birch Clump,Birch Clump
 item.improvists.gold_coin_nugget,Gold Coin Nugget,Gold Coin Nugget
