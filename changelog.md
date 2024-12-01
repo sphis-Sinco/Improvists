@@ -70,3 +70,7 @@
 - Recipe Unlock Call for Crafting an Item
 - Recipe Unlock Call for Picking up an Item
 - Clump Recipe Unlocking
+### Structures
+- Sandstone Housing Structure
+### Loot Tables
+- Sandstone Housing Loot
