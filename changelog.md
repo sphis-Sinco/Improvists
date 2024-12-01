@@ -1,4 +1,7 @@
 # v0.1 (12/1/2024)
+## Known Issues
+- You can't craft ANY of the Clump items, you can only uncraft them
+
 ## Added
 ### Items
 - Gold Coin
