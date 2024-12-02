@@ -11,6 +11,7 @@
 - Coal Ore Recipe
 - Raw Copper Ore Recipe
 - Diamond Ore Recipe
+- Charcoal Crafting Recipe (using Charcoal Nugget)
 
 ## Changed
 ### Block Drops
