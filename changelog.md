@@ -12,7 +12,6 @@
 - Raw Copper Ore Recipe
 - Diamond Ore Recipe
 - Charcoal Crafting Recipe (using Charcoal Nugget)
-
 ## Changed
 ### Block Drops
 - Coal ore Block
@@ -21,6 +20,8 @@
 - Deepslate Copper Ore Block
 - Diamond ore Block
 - Deepslate Diamond ore Block
+### Misc
+- Website URL
 
 # v0.1 (12/1/2024)
 ## Known Issues
