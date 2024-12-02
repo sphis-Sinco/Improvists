@@ -8,6 +8,16 @@
 - Coal Nugget
 - Copper Nugget
 - Diamond Nugget
+### Recipes
+#### Working
+- Charcoal Nugget Crafting Recipe
+## Changed
+- Coal ore Block Drop
+- Deepslate Coal ore Block Drop
+- Copper Ore Block Drop
+- Deepslate Copper Ore Block Drop
+- Diamond ore Block Drop
+- Deepslate Diamond ore Block Drop
 
 # v0.1 (12/1/2024)
 ## Known Issues
