@@ -3,6 +3,11 @@
 - You still can't craft ANY of the Clump items, you can only uncraft them
 
 ## Added
+### Items
+- Charcoal Nugget
+- Coal Nugget
+- Copper Nugget
+- Diamond Nugget
 
 # v0.1 (12/1/2024)
 ## Known Issues
