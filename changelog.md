@@ -1,7 +1,4 @@
 # v0.1.1 (12/5/2024?)
-## Known Issues
-- You still can't craft ANY of the Clump items, you can only uncraft them
-
 ## Added
 ### Items
 - Charcoal Nugget
@@ -11,6 +8,10 @@
 ### Recipes
 #### Working
 - Charcoal Nugget Crafting Recipe
+- Coal Ore Recipe
+- Raw Copper Ore Recipe
+- Diamond Ore Recipe
+
 ## Changed
 ### Block Drops
 - Coal ore Block
