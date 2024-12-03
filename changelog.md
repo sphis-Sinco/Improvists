@@ -1,10 +1,18 @@
 # v0.1.1 (12/5/2024?)
 ## Added
 ### Items
+- Amethyst Nugget
 - Charcoal Nugget
 - Coal Nugget
 - Copper Nugget
 - Diamond Nugget
+- Emerald Nugget
+- Lapis Nugget
+- Netherite Nugget
+- Quartz Nugget
+- Raw Copper Nugget
+- Raw Gold Nugget
+- Raw Iron Nugget
 ### Recipes
 #### Working
 - Charcoal Nugget Crafting Recipe
