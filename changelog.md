@@ -31,6 +31,10 @@
 - Deepslate Copper Ore Block
 - Diamond ore Block
 - Deepslate Diamond ore Block
+- Iron Ore Block
+- Deepslate Iron Ore Block
+- Gold Ore Block
+- Deepslate Gold Ore Block
 ### Misc
 - Website URL
 
