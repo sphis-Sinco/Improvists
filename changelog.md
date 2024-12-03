@@ -12,6 +12,9 @@
 - Raw Copper Ore Recipe
 - Diamond Ore Recipe
 - Charcoal Crafting Recipe (using Charcoal Nugget)
+### Extensions
+- Coal Nugget Item Extension to make it Fuel
+- Charcoal Nugget Item Extension to make it Fuel
 ## Changed
 ### Block Drops
 - Coal ore Block
