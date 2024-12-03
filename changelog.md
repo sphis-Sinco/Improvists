@@ -35,6 +35,7 @@
 - Deepslate Iron Ore Block
 - Gold Ore Block
 - Deepslate Gold Ore Block
+- Amethyst Block
 ### Misc
 - Website URL
 
