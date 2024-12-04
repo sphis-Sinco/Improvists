@@ -20,9 +20,15 @@
 - Raw Copper Ore Recipe
 - Diamond Ore Recipe
 - Charcoal Crafting Recipe (using Charcoal Nugget)
+- Netherite Nugget Recipe
+- Netherite Nugget Alt Recipe
+- Netherite Recipe (using Netherite Nuggets)
+- Netherite Brick Recipe
 ### Extensions
 - Coal Nugget Item Extension to make it Fuel
 - Charcoal Nugget Item Extension to make it Fuel
+### Blocks
+- Netherite Brick
 ## Changed
 ### Block Drops
 - Coal ore Block
